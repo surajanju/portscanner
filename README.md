@@ -1,2 +1,4 @@
 # portscanner
-This is the Portscanner but you need to change the Range of the port scanner...
+This is the Open Port scanning program and it shows the open port and the program running in the open port's
+
+This is Only For Educational Purpose, Please Respect Others Privacy..
